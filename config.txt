@@ -1,0 +1,8 @@
+//default json data
+defaultJSONData:
+{"navBarTitleText":"[itemNickname]"}
+
+//description for control panel. Up to 250 characters. No HTML.
+shortDescription:
+This plugin adds a flashlight screen to your app by using the LED light on 
+you're iphone! The on and off images are customizable.
